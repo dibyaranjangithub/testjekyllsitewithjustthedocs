@@ -2,7 +2,7 @@
 layout: page
 title: Single Sign-On
 ---
-The Linux Foundation provides a unified Single Sign-On service (SSO) that offers secure access and protects the identities of all its community members. The Linux Foundation systems and services like Events Registration, Training and Certification, Jenkins, JIRA,  Confluence, Gerrit, Groups.io, Crowdfunding, Mentorship, EasyCLA, Insights, and Security are all protected by the SSO service. Additional services to be covered in near future will include Zoom and Slack, among others.
+The Linux Foundation provides a unified Single Sign-On service (SSO) that offers secure access and protects the identities of all its community members. The Linux Foundation systems and services like Events Registration, Training and Certification, Jenkins, JIRA, Confluence, Gerrit, Groups.io, Crowdfunding, Mentorship, EasyCLA, Insights, and Security are all protected by the SSO service. Additional services to be covered in near future will include Zoom and Slack, among others.
 
 To create an account and log in you need an email address. You can also sign in using 3rd party authentication service providers such as Google, Facebook, GitHub, LinkedIn.
 

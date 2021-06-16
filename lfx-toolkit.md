@@ -12,3 +12,7 @@ With 11 tools currently available and more on the roadmap for early next year, t
 
 # Why was LFX created?
 The world runs on open source, and projects need more than a version or source control system to scale. The Linux Foundation has evolved a proven methodology to transform projects into category leaders. LFX operationalizes this approach, providing a suite of tools built to facilitate every aspect of open source development.
+
+Following is a test image:
+
+![Test](/images/test.jpg)
