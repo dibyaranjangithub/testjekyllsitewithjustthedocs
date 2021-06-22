@@ -15,4 +15,4 @@ The world runs on open source, and projects need more than a version or source c
 
 Following is a test image:
 
-![Test](/images/test.jpg)
+![The Linux Foundation](../image/linux-foundation-open-source.jpg)

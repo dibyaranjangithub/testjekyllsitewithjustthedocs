@@ -7,7 +7,7 @@ When you log in for the first time to any Linux Foundation managed service that 
 
 1. Navigate to LFX Platform and click Create Community Profile from top right corner of the page.
 
-![Create Community Profile](/images/create community profile.jpg)
+![Create Community Profile](../image/create community profile.png)
 
 2. You can also create account from Sign In page. Click Create an Account on Sign in page.
 
