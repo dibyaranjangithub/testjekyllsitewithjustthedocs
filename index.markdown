@@ -3,4 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Home
+permalink: /
 ---
+This is the Home page. Edited the index.md file under root directory.

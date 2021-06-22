@@ -24,7 +24,8 @@ description:
   This jekyll site is created for test purpose and is not the genuine LF doc site.
   For The Linux Foundation documenation, see https://docs.linuxfoundation.org/lfx/
 
-baseurl: "" # the subpath of your site, e.g. /blog
+page_excerpts: true
+baseurl: "/lfx-docsite" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username: dibyaranjangithub

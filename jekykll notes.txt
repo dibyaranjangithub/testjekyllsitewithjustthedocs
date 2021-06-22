@@ -1,0 +1,2 @@
+layouts: Layouts are the skeleton of HTML files that defines the look and feel of different pages of your website or the entire site in general.
+			Genearlly files in Layouts are written in HTML.
